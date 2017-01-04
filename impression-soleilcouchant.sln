@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "impression-soleilcouchant.CSharp.Plugins", "impression-soleilcouchant.CSharp.Plugins.csproj", "{D9183E16-E917-EDC7-5851-FB90E9EC3A07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "impression-soleilcouchant.CSharp", "impression-soleilcouchant.CSharp.csproj", "{D1A2F658-6DC1-5C33-EC15-0D122A674C0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "impression-soleilcouchant.CSharp.Editor", "impression-soleilcouchant.CSharp.Editor.csproj", "{A8DD877C-BFAE-740C-0FBB-5071A2603EFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9183E16-E917-EDC7-5851-FB90E9EC3A07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9183E16-E917-EDC7-5851-FB90E9EC3A07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9183E16-E917-EDC7-5851-FB90E9EC3A07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9183E16-E917-EDC7-5851-FB90E9EC3A07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1A2F658-6DC1-5C33-EC15-0D122A674C0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1A2F658-6DC1-5C33-EC15-0D122A674C0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1A2F658-6DC1-5C33-EC15-0D122A674C0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1A2F658-6DC1-5C33-EC15-0D122A674C0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8DD877C-BFAE-740C-0FBB-5071A2603EFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8DD877C-BFAE-740C-0FBB-5071A2603EFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8DD877C-BFAE-740C-0FBB-5071A2603EFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8DD877C-BFAE-740C-0FBB-5071A2603EFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
